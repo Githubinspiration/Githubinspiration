@@ -8,11 +8,6 @@
     alt="2022" />
 </p>
 
-<p align="center">
-  <img  src="assets/profile-night-green.svg"
-    alt="profile-night-green" />
-</p>
-
 <br>
 <p align="center">
     <h1 align="center">✩&emsp;DEVALLY 0412&emsp;✩</h1>
